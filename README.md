@@ -10,7 +10,8 @@
 - 👨‍💻 Former **Software Engineer** with a focus on creating scalable, high-performance solutions.
 - 🌍 Always eager to collaborate on **open-source projects** and innovative ideas.
 - You can check out my resume for more details:  
-📄 [Resume (PDF)]([https://github.com/ibtisam-tanveer/repository-name/blob/main/Muhammad_Ibtisam_Tanveer_Resume.pdf](https://github.com/ibtisam-tanveer/ibtisam-tanveer/blob/main/muhammad_ibtisam_tanveer_software_developer.pdf))
+📄 **Resume**: [View My Resume](https://github.com/ibtisam-tanveer/ibtisam-tanveer/blob/main/muhammad_ibtisam_tanveer_software_developer.pdf)
+
 
 ---
 
