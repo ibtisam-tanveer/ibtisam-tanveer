@@ -22,13 +22,13 @@
 ---
 
 ### 🌟 Key Projects
-- **[Trustworthy AI in Healthcare](https://github.com/your-repo-link)**: AI-driven tool mitigating skin tone bias in medical imaging.
-- **[AAT E-Commerce Platform](https://github.com/your-repo-link)**: Wholesale app managing 10,000+ SKUs, boosting app responsiveness by 70%.
-- **[Portfolio Website](https://your-portfolio-link.com)**: Responsive portfolio built with Next.js and MongoDB.
+- **[Trustworthy AI in Healthcare](#)**: AI-driven tool mitigating skin tone bias in medical imaging.
+- **[AAT E-Commerce Platform](#)**: Wholesale app managing 10,000+ SKUs, boosting app responsiveness by 70%.
+- **[Portfolio Website](#)**: Responsive portfolio built with Next.js and MongoDB.
 
 ---
 
 ### 📫 Connect with Me
-- 🌐 **Portfolio**: [Explore My Work](https://your-portfolio-link.com)  
+- 🌐 **Portfolio**: [Explore My Work](#)  
 - 💼 **LinkedIn**: [linkedin.com/in/ibtisam-tanveer](https://linkedin.com/in/ibtisam-tanveer)  
 - 📧 **Email**: [ibtisam.tanveer22@gmail.com](mailto:ibtisam.tanveer22@gmail.com)  
